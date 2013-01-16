@@ -1,0 +1,10 @@
+{
+	"name": "sm-node-server",
+	"version": "0.1.0",
+	"pm": "sm",
+    "main": "./server.js",
+    "dependencies": {
+        "sourcemint-util-js": "0.2.x",
+        "request": "2.12.0"
+    }
+}
