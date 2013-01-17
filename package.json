@@ -1,6 +1,6 @@
 {
     "name": "sm-node-server",
-    "version": "0.1.9",
+    "version": "0.1.10",
     "pm": "sm",
     "main": "./server.js",
     "dependencies": {
