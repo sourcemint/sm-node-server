@@ -1,6 +1,6 @@
 
-const Q = require("sourcemint-util-js/lib/q");
-const OS = require("sourcemint-util-js/lib/os");
+const Q = require("sm-util/lib/q");
+const OS = require("sm-util/lib/os");
 const CRYPTO = require("crypto");
 const REQUEST = require("request");
 

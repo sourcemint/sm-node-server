@@ -4,7 +4,9 @@
     "pm": "sm",
     "main": "./server.js",
     "dependencies": {
-        "sourcemint-util-js": "0.2.x",
         "request": "2.12.0"
+    },
+    "mappings": {
+        "sm-util": "github.com/sourcemint/sm-util/~0.1.0"
     }
 }
